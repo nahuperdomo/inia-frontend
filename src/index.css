@@ -1,0 +1,7 @@
+/* v4: una sola importación */
+@import "tailwindcss";
+
+/* opcional: estilos base propios */
+:root {
+    --app-bg: #0a0a0a;
+}
